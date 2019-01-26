@@ -1,0 +1,50 @@
+# DBSearhEngine-Bash-Scripting
+
+
++===========================================================================================================+
+|--------------------------------------Database Search Engine-----------------------------------------------|
++===========================================================================================================+
+|                                                                                                           |
+|                                                                                                           |
+|--------------------------------                                                                           |
+|==  Running the search engine ==                                                                           |
+|--------------------------------                                                                           |
+|                                                                                                           |
+|    - Open the terminal from the same directory where the script exists.                                   |
+|    - In the terminal type " ./DBSearchEngine ".                                                           |
+|    - By now you opened the search engine and you can use all the features.                                |
+|                                                                                                           |
+|--------------------------------                                                                           |
+|======   Important notes  ======                                                                           |
+|--------------------------------                                                                           |
+|                                                                                                           |
+|    - All databases will be created in a directory called DBMS besides the DBSearchEngine exuctable file.  | 
+|    - Each database is a directory saved inside DBMS directory.                                            |
+|    - Each table is a file inside its database directory.                                                  |
+|                                                                                                           |
+|    - Any table must contain at least 2 columns.                                                           |
+|    - The first column in the table is the primary key.                                                    |
+|    - Primary key can't be NULL, repeated nor modified.                                                    |
+|                                                                                                           |
+|    - Datatypes of each column can be String "referred to by (s)"or Integer "referred to by (i)".          |
+|    - Integer values can accept only numbers.                                                              |
+|    - String values can accept letters, "_",".","@" and " "                                                |
+|                                                                                                           |
+|--------------------------------                                                                           |
+|=========== Naming =============                                                                           |
+|--------------------------------                                                                           |
+|                                                                                                           |
+|    - DB, tables and columns names must start with a letter and can contain only letters, numbers or "_"   |
+|                                                                                                           |
+|--------------------------------                                                                           |
+|=========== Authors ============                                                                           |
+|--------------------------------                                                                           |
+|                                                                                                           |
+|    - Mohammed H. Alnaggar - Information Technology Institute - Open Source - Cloud Development            |
+|        Mohammed.Alnaggar93@gmail.com                                                                      |
+|    - Hossam A. El-Esseilly - Information Technology Institute - Open Source - Cloud Development           |
+|        Hossamatef37@yahoo.com"                                                                            |
+|                                                                                                           |
+|===========================================================================================================|
+|------------------------------------------------- Thank You -----------------------------------------------|
++===========================================================================================================+
